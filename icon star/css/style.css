@@ -8,9 +8,11 @@ body {
     width: 100px;
     height: 100px;
     position: relative;
-    top: 400px;
-    left: 600px;
-    text-align: center;
+    left: 45%;
+    top: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     float: left;
 }
 
@@ -24,9 +26,7 @@ body {
     width: 160px;
     height: 4px;
     position: absolute;
-    top: 0px;
     left: -160px;
-    float: left;
     background: white;
 }
 
@@ -35,9 +35,7 @@ body {
     width: 160px;
     height: 4px;
     position: absolute;
-    top: 0px;
     left: 100px;
-    float: left;
     background: white;
 }
 
